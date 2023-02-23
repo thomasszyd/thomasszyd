@@ -33,7 +33,7 @@ jobs:
       uses: actions/upload-pages-artifact@v1.0.7
       with:
         name: production-files
-        path: ./bulid
+        path: bulid/
   
   deploy:
     name: Deploy
