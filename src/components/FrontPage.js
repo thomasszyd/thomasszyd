@@ -31,7 +31,7 @@ const FrontPage = () => {
                             Thomas Szydlowski
                         </Typography>
                         <Typography variant="subtitle1" component="div" sx={{margin: "10px"}}>
-                            Developer <span>&#183;</span> Gamer <span>&#183;</span> Coffee Addict <span>&#183;</span> Moo
+                            Developer <span>&#183;</span> Gamer <span>&#183;</span> Coffee Addict
                         </Typography>
                     </Grid>
                 </Grid>
